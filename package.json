@@ -1,5 +1,4 @@
 {
-  "name": "angular-samples",
   "scripts": {
     "build-all": "bazel build //src/apps/api && bazel build //src/apps/backend",
     "run-backend": "ibazel run //src/apps/backend/src:src",
